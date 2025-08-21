@@ -11,3 +11,7 @@
 "!*.md" 
 "!*.txt" 
 "!*.gitignore" 
+"*.tif" 
+"02_Raster/" 
+"01_Vector/" 
+"QGIS_Project/" 
